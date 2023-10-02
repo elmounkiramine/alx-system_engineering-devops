@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 < iacra >> iacra
+tail -n 1 < iacta >> iacta
